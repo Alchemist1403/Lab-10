@@ -1,0 +1,3 @@
+hello
+Definition:"Hello!" or an equivalent greeting.
+Link:https://en.wiktionary.org/wiki/hello
